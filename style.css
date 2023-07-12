@@ -3,6 +3,7 @@ div {
   font-size: 30px;
   background-color: red;
   display: inline;
+  font-weight: bold;
 }
 
 p {
